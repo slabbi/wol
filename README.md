@@ -1,7 +1,7 @@
 # "Wake on Lan" (WOL) with VPN and FRITZ!Box
 
 * [Introduction](#Introduction)
-* [Installation on a pi-hole server](#Installation on a pi-hole server)
+* [Installation on a pi-hole server](#Installation_on_a_pi-hole_server)
 
 ## Introduction
 
