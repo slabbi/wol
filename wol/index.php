@@ -2,7 +2,7 @@
 <title>WOL</title>
 <body>
 <div align="center"><h1 style="font-size: 500%;">WOL</h1></div>
-
+ 
 <?php
 $mode = strtolower($_POST["mode"]);
 
