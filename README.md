@@ -49,12 +49,6 @@ The script must of course be adapted to your own network and the MAC addresses o
 
 Open the website 'http://<pihole>/wol/' on your iPhone or Android device and create a bookmark on the home screen.
 
-![Foto 10 05 24, 11 02 41](https://github.com/slabbi/wol/assets/65805263/87f99a39-69cd-4174-b7c0-fe51c759c869)
-
-![Foto 10 05 24, 11 02 48](https://github.com/slabbi/wol/assets/65805263/88ceecf3-0be2-419c-a9e9-f5fcc13028de)
-
-
-
 ### Optional: Install a ftp server on pi-hole
 
 If you want to upload the script a little more conveniently, you can also install an ftp server at the same time.
