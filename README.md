@@ -1,5 +1,8 @@
 # "Wake on Lan" (WOL) with VPN and FRITZ!Box
 
+* [Introduction](#Introduction)
+* [Installation on a pi-hole server](#Installation on a pi-hole server)
+
 ## Introduction
 
 Are you once again annoyed that the Fritzbox is not forwarding WOL packets via IPsec or WireGuard?
