@@ -47,7 +47,7 @@ The script must of course be adapted to your own network and the MAC addresses o
 
 ### Create a shortcut on your iPhone or Android
 
-Open the website 'http://<pihole>/wol/' on your iPhone or Android device and create a bookmark on the home screen.
+Open the website 'http://< pihole >/wol/' on your iPhone or Android device and create a bookmark on the home screen.
 
 <img src="https://github.com/slabbi/wol/assets/65805263/e3d2e323-e790-4ea8-8f00-2524a8124e5c" height="200">
 <img src="https://github.com/slabbi/wol/assets/65805263/a6f4784c-28f2-46ce-849f-5163922b87de" height="200">
