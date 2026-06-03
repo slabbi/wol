@@ -4,7 +4,7 @@
 <div align="center"><h1 style="font-size: 500%;">WOL</h1></div>
  
 <?php
-$mode = strtolower($_POST["mode"]);
+$mode = strtolower($_REQUEST["mode"]);
 
 $DOCUMENT_ROOT = $_SERVER["DOCUMENT_ROOT"];
 $PHP_SELF = $_SERVER["PHP_SELF"];
